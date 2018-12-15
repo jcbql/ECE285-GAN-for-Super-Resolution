@@ -1,7 +1,7 @@
 # ECE285-GAN-for-Super-Resolution
 
 ## Implement ESGAN for Super Resolution based on https://github.com/xinntao/ESRGAN
-### Use Python3 and PyTorch for implementation
+### Dependencies: Python3 and PyTorch
 ### Change the dataset to Caltech-256
 
 Create a symbolic link to the Caltech256 dataset by doing the following in the linux shell
