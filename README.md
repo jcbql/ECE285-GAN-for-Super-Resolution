@@ -5,12 +5,6 @@
 <br>
 2.Change the dataset to Caltech-256.
 
-Create a symbolic link to the Caltech256 dataset by doing the following in the linux shell
-```
-mkdir Caltech256
-ln -s /datasets/Caltech256/* Caltech256
-```
-
 ## train.ipynb used for training
 1.The training set is stored in HR_data, and the validation set is stored in Val_data.
 <br>
